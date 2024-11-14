@@ -9,4 +9,4 @@
 10. Model Predction for train, test split
 11. Evaluate model with MSE, RMSE, MAE, R2 , R2_adj
 12. Predict the testing_set.csv 
-13. Send me the file on email - lokeshchakranarayan.etlhive@gmail.com
+
